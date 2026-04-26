@@ -2,10 +2,7 @@
 
 ## 🎯 项目简介
 使用 **Noisy DQN + Double Q-Learning** 在 20×20 网格环境中训练贪吃蛇智能体。用 Noisy Networks 替代传统 ε-greedy 实现自适应探索，手工设计 16 维状态特征（危险检测、食物方向、边界感知）
-
-## 🎮 演示
-
-<video src="videos/snake_env-demo.mp4" controls width="100%" autoplay loop muted></video>
+videos有项目演示视频
 
 ## 🚀 快速运行
 \`\`\`bash
